@@ -1,5 +1,9 @@
 # Hi, I'm Ashwin
 
+<p align="center">
+ <img width="1000" src="https://github.com/ashp0/ashp0/blob/main/Snake.svg" alt="snake"/>
+</p>
+
 CS student at the University of Waterloo (Fall 2026, first year). I build
 native software for Apple platforms, low-level tools, and things that help
 people focus instead of scroll.
@@ -34,4 +38,4 @@ Arduino / PlatformIO · Racket
 
 ## Contact
 
-ashwinpaudel12@gmail.com
+paudelashwin08@gmail.com
