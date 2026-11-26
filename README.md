@@ -27,29 +27,44 @@ repos have the rest.
   Objective-C core, synced through Git, with on-device dictation on iPhone.
   On a 2013 Mac it opens a million-word project in 0.6 seconds. Source is
   private; screenshots and a demo on request.
-- **[WatDash](https://github.com/ashp0/WatDash)**: a SwiftUI dashboard for
-  Mac, iPhone and iPad that turns a Waterloo term into one screen: classes,
-  deadlines, office hours, and a grade engine that projects my average.
-  Hand-written RFC 5545 calendar parser, no dependencies.
+- **[Malvon](https://github.com/ashp0/Malvon)**: a WebKit web browser for
+  macOS, built alone before AI coding tools existed. I wrote its whole
+  interface in AppKit code by hand, with no Interface Builder files, to keep
+  it fast and light on the battery.
+- **[Second Sight](https://github.com/ashp0/SecondSight)**: 3rd place at
+  HackerRivals Toronto (Aug 2026). Reads what an immigration consultant types
+  through the macOS Accessibility API, reads the client's documents with
+  Amazon Textract, and warns when the two disagree.
 - **[Drast](https://github.com/ashp0/Drast)**: a statically typed,
   indentation-scoped systems language that compiles to C++ for Arduino and
   other embedded targets, with a Rust-inspired ownership checker.
 - **[SonicOS](https://github.com/ashp0/SonicOS)**: an attention-respecting
   operating system in Rust that locks you into one time-boxed task at a time.
-- **[Malvon](https://github.com/ashp0/Malvon)**: a WebKit web browser for macOS.
-- **[Second Sight](https://github.com/ashp0/SecondSight)**: built at
-  HackerRivals Toronto (Aug 2026). Catches typos in high-stakes forms by
-  comparing what's typed in any app against an ID read with Amazon Textract.
+- **[WatDash](https://github.com/ashp0/WatDash)**: a SwiftUI dashboard for
+  Mac, iPhone and iPad that turns a Waterloo term into one screen: classes,
+  deadlines, office hours, and a grade engine that projects my average.
+  Hand-written RFC 5545 calendar parser, no dependencies.
 - **[Accelerometer](https://github.com/ashp0/Accelerometer)**: Arduino UNO R4
   firmware plus a SwiftUI app that streams and charts MPU6050 telemetry over UDP.
 
-I also write small, careful apps for old hardware, like
-[Postview](https://github.com/ashp0/Postview), a PDF viewer for OS X 10.9.
+I also love vintage technology and software, especially software that is
+stable and carefully built. [Postview](https://github.com/ashp0/Postview) is
+a PDF viewer I wrote for OS X 10.9.
 
 ## Tools
 
-Swift · SwiftUI · AppKit · Objective-C · C++ · Rust · TypeScript · Python ·
-Arduino / PlatformIO · Racket
+- **Languages:** Swift, Objective-C, C, C++, Rust, TypeScript, JavaScript,
+  Python, SQL, Racket
+- **Apple platforms:** SwiftUI, AppKit, WebKit, Core Graphics, GCD,
+  WidgetKit, App Intents, macOS Accessibility API, XCTest, Xcode
+- **Web and cloud:** React, Next.js, Tailwind CSS, Cloudflare Workers (D1, R2,
+  Queues), Stripe, AWS (Bedrock, Textract, S3), Google Apps Script
+- **Systems:** Linux, Wayland, Qt/QML, ROS 2, Docker, Git and libgit2
+- **Hardware:** Arduino, PlatformIO
+- **Testing:** XCTest, Playwright, pytest, axe-core, failure injection,
+  performance profiling
+- **AI:** on-device speech recognition (Parakeet), Claude Code (skills and
+  subagents), AWS Bedrock
 
 ## Contact
 
