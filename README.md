@@ -4,14 +4,29 @@
  <img width="1000" src="https://github.com/ashp0/ashp0/blob/main/Snake.svg" alt="snake"/>
 </p>
 
-CS student at the University of Waterloo (Fall 2026, first year). I build
-native software for Apple platforms, low-level tools, and things that help
-people focus instead of scroll.
+Computer Science student at the University of Waterloo. I build native
+software for Apple platforms, low-level tools, and things that help people
+focus instead of scroll. I've been writing Mac and iPhone apps in Swift since
+2021 (age 13), alongside Linux and systems projects; my pinned and public
+repos have the rest.
 
-Looking for a **Summer 2027 co-op** in software engineering.
+## Work
+
+- **[Yarsa Technologies](https://yarsa.ca)** (founder, October 2026 to now):
+  a software agency for small businesses. I design, build and operate the
+  client platform an immigration firm runs on: at
+  [portal.aayam.ca](https://portal.aayam.ca) applicants upload documents and
+  sign retainers, and staff run every case, lead and payment.
+- **[Aayam Immigration Services](https://aayam.ca)** (full-stack developer,
+  June 2022 to August 2026).
 
 ## Things I've built
 
+- **[Dendron](https://github.com/ashp0/Dendron)**: a writing app for Mac and
+  iPhone that opens and saves Scrivener projects. AppKit and SwiftUI on one
+  Objective-C core, synced through Git, with on-device dictation on iPhone.
+  On a 2013 Mac it opens a million-word project in 0.6 seconds. Source is
+  private; screenshots and a demo on request.
 - **[WatDash](https://github.com/ashp0/WatDash)**: a SwiftUI dashboard for
   Mac, iPhone and iPad that turns a Waterloo term into one screen: classes,
   deadlines, office hours, and a grade engine that projects my average.
